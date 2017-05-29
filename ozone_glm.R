@@ -1,3 +1,4 @@
+#From Statistics with R by Christoph Scherber
 plot(Ozone~Wind,airquality)
 
 #lm is used for linear regression, normal errors, constant variance
