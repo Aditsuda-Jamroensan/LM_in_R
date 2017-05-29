@@ -1,3 +1,4 @@
+#From Statistics with R by Christoph Scherber
 #Linear Regression of Ozone and Solar Radiation
 data("airquality")
 
