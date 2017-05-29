@@ -1,3 +1,4 @@
+#From Statistics with R by Christoph Scherber
 #Model joined influence of solar radiation and wind speed on ozone
 
 plot(Ozone~Solar.R,airquality)
@@ -21,7 +22,7 @@ summary(model2)
 # Solar.R:Wind -0.020279   0.007246  -2.799 0.006089 ** 
 #   ---
 #   Signif. codes:  
-#   0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+#   0 â€˜***â€™ 0.001 â€˜**â€™ 0.01 â€˜*â€™ 0.05 â€˜.â€™ 0.1 â€˜ â€™ 1
 # 
 # Residual standard error: 24.16 on 107 degrees of freedom
 # (42 observations deleted due to missingness)
